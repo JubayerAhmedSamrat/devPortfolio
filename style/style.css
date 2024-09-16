@@ -276,7 +276,7 @@ header {
 
 .support {
   margin: 0 155px;
-  
+
   position: relative;
   background-image: url(../images/handshake.jpg);
   background-size: cover;
@@ -304,6 +304,7 @@ header {
 .support-box {
   display: grid;
   place-items: center;
+  margin: 30px 0;
 }
 .support-para1 {
   color: white;
@@ -315,7 +316,7 @@ header {
   font-size: 20px;
   font-weight: 400;
   text-align: center;
-  margin-top: -50px;
+  margin-top: -10px;
 }
 .support-box input {
   height: 57px;
