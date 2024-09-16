@@ -305,6 +305,7 @@ header {
 .support-box input {
   height: 57px;
   width: 548px;
+  border: none;
   border-radius: 10px;
   margin-left: 240px;
 }
